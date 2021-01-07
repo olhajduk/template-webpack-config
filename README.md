@@ -1,4 +1,4 @@
-# Basic webpack config
+# Basic webpack.config
 
 ## Package installation
 
